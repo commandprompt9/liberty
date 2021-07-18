@@ -9,5 +9,7 @@ http://cdimages.ubuntu.com/netboot/
 
 ![Novo Projeto](https://user-images.githubusercontent.com/87622399/126085102-7b6a1cfb-a393-41d7-b38f-e31fb0798b6c.png)
 
+IT'S NOT RECOMMENDED TO INSTALL THIS LINUX OS ON YOUR PC. IM NOT RESPONSIBLE FOR ANY DAMAGE
+----------------------------------------------------------------------------------------------------
 
 
